@@ -1,5 +1,3 @@
-"use server";
-
 import AnimeCard, { AnimeProp } from "@/components/AnimeCard";
 
 export const getAnimes = async (page: number) => {
